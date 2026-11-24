@@ -1,0 +1,23 @@
+# .dockerignore
+node_modules
+dist
+.git
+.github
+.vscode
+.idea
+.env
+.env.*
+!.env.example
+tests
+coverage
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+node_modules
+.git
+.env
+.env.*
+dist
+npm-debug.log
+
